@@ -37,8 +37,8 @@ src
 ## Input controller
 * w: rotate counter-clockwise
 * q: rotate clockwise
-<-: move left by one block
-->: move right by one block
+* <-: move left by one block
+* ->: move right by one block
 
 ## Rubric points
 1. The project demonstrates an understanding of C++ functions and control structures.
