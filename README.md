@@ -14,6 +14,7 @@ This is a simple tetris game written in c++
   * Windows: recommend using [MinGW](http://www.mingw.org/)
 
 ## Structure
+```
 src
 ├── controller.cpp ... input controller
 ├── controller.h
@@ -24,7 +25,7 @@ src
 ├── player.h
 ├── renderer.cpp ... draw the current game state
 └── renderer.h
-
+```
 
 ## Build
 
